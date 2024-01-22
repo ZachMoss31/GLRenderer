@@ -40,9 +40,8 @@ void DisplayGL() {
 void KeyBoardFunction(unsigned char key, int x, int y) {
 	switch (key) {
 	case 27:
-		
-		//glutLeaveMainLoop();
 		std::cout << "Key ESC was pressed" << std::endl;
+		exit(0);
 		break;
 	}
 }
@@ -79,7 +78,6 @@ void IdleFunction() {
 }
 
 
-
 int main(int argc, char** argv) {
 	//-------------------------------------------------------- FreeGLUT -------
 	//---------- Initialization ----------
@@ -98,7 +96,7 @@ int main(int argc, char** argv) {
 	//---------- Main Loop ----------
 	glutIdleFunc(IdleFunction);
 	glutMainLoop();
-	
+	//--------------------------------------------------------------------------
 
 	/*VAO VAO1;
 	VAO1.Bind();

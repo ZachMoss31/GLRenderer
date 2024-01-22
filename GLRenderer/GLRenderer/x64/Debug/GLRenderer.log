@@ -1,4 +1,4 @@
 ﻿  Renderer.cpp
 C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\Rendering\CemYuksel\GLRenderer\GLRenderer\GLRenderer\src\Renderer.cpp(25,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\Rendering\CemYuksel\GLRenderer\GLRenderer\GLRenderer\src\Renderer.cpp(65,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\Rendering\CemYuksel\GLRenderer\GLRenderer\GLRenderer\src\Renderer.cpp(64,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   GLRenderer.vcxproj -> C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\Rendering\CemYuksel\GLRenderer\GLRenderer\x64\Debug\GLRenderer.exe
