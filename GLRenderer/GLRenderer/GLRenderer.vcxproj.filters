@@ -23,5 +23,8 @@
     <None Include="src\shaders\3.3.shader.fs" />
     <None Include="src\shaders\3.3.shader.vs" />
     <None Include="src\shaders\GreenGlow.fs" />
+    <None Include="resources\shaders\3.3.shader.fs" />
+    <None Include="resources\shaders\3.3.shader.vs" />
+    <None Include="resources\shaders\GreenGlow.fs" />
   </ItemGroup>
 </Project>

@@ -142,6 +142,9 @@
     <ClCompile Include="src\Renderer.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="resources\shaders\3.3.shader.fs" />
+    <None Include="resources\shaders\3.3.shader.vs" />
+    <None Include="resources\shaders\GreenGlow.fs" />
     <None Include="src\shaders\3.3.shader.fs" />
     <None Include="src\shaders\3.3.shader.vs" />
     <None Include="src\shaders\GreenGlow.fs" />
